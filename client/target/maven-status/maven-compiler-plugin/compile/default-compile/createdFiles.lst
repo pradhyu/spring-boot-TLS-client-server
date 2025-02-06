@@ -1,0 +1,5 @@
+com/example/client/config/SecurityConfig.class
+com/example/client/service/ServerService.class
+com/example/client/ClientApplication.class
+com/example/client/controller/ClientController.class
+com/example/client/config/RestTemplateConfig.class
